@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ArunPesari2
-- 👀 I’m interested in Data Engineering
-- 🌱 I’m currently learning Docker 
-- 💞️ I’m looking to collaborate on DataEngineering Projects
+- 👋 Hi, I’m @ArunPesari
+- 👀 I’m interested in Data Engineering and Data Integration
+- 🌱 I’m currently learning Docker
+- 💞️ I’m looking to collaborate on Data Engineering Projects
 - 📫 I'am available through arunpesari251096@gmail.com
 
 <!---
